@@ -7,7 +7,7 @@
 ## Links
 
 - Website: [https://nin.red](https://nin.red)
-- Blog: [https://blog.nin.red](https://blog.nin.red)
+- Blog: [https://nin.red/blog](https://nin.red/blog)
 - Github: [NriotHrreion](https://github.com/nocpiun)
 - HYCDGX官网：[https://site.hycdgx.com](https://site.hycdgx.com)
 
